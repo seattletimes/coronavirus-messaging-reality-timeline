@@ -1,192 +1,256 @@
 [
   {
-    "year": "Jan",
-    "date": "1/21/2020",
-    "wa": "First known case of COVID-19 in U.S. announced in Snohomish County.",
-    "url": "https://www.seattletimes.com/seattle-news/health/case-of-wuhan-coronavirus-detected-in-washington-state-first-in-united-states/"
+    "date": "January 15",
+    "infection": "A 35-year-old Snohomish County man lands at Sea-Tac Airport from a trip to Wuhan, China.",
+    "infection_url": "https://www.seattletimes.com/seattle-news/health/case-of-wuhan-coronavirus-detected-in-washington-state-first-in-united-states/"
   },
   {
-    "year": "Jan",
-    "date": "1/29/2020",
-    "lifeCare": "A 911 call is made from the nursing home that day for an 85-year-old woman in respiratory distress.\n \nAccording to a union representative, a Kirkland firefighter is exposed after contact with a patient linked to Life Care. The firefighter doesn't test positive for COVID-19.",
-    "speaker": "She's having respiratory distress.",
-    "mp3": "20-685_1-trim.mp3",
-    "vtt": "685-captions.vtt"
+    "date": "January 15",
+    "week": "Week 1"
   },
   {
-    "year": "Feb",
-    "date": "2/8/2020",
-    "lifeCare": "A 911 call is made after a visitor in her 60s has chest pain and shortness of breath in the nursing home lobby. It's unknown if this is linked to coronavirus.",
-    "speaker": "We have a lady in the lobby that is having chest pain and shortness of breath.",
-    "mp3": "20-927-trim.mp3",
-    "vtt": "927-captions.vtt"
+    "date": "January 19",
+    "week": "Week 2"
   },
   {
-    "year": "Feb",
-    "date": "2/10/2020",
-    "lifeCare": "Staff notice an outbreak of respiratory illness and put up warning signs, according to Life Care.",
-    "cases": 0
+    "date": "January 21",
+    "infection": "Public-health officials announce that the Snohomish County man has COVID-19, the first confirmed case in the U.S. ",
+    "infection_url": "https://www.seattletimes.com/seattle-news/health/case-of-wuhan-coronavirus-detected-in-washington-state-first-in-united-states/"
   },
   {
-    "year": "Feb",
-    "date": "2/18/2020",
-    "lifeCare": "A 56-year-old resident is taken to the hospital with shortness of breath. It's unknown if this is linked to coronavirus.",
-    "speaker": "She's short of breath and her vital signs are a bit elevated now.",
-    "mp3": "20-1168_1-trim.mp3",
-    "vtt": "1168-captions.vtt"
+    "date": "January 21",
+    "messaging": "John Wiesman, Washington state's secretary of health, says: \"We believe the risk to the public is low.\"",
+    "messaging_url": "https://web.archive.org/web/20200123124555/https://www.doh.wa.gov/Newsroom/Articles/ID/1068/Case-of-2019-novel-coronavirus-confirmed-in-Washington-state-resident"
   },
   {
-    "year": "Feb",
-    "date": "2/19/2020",
-    "lifeCare": "A 60-year-old man becomes first known resident to be hospitalized for COVID-19 symptoms, but doesn't test positive until later. \n\nAnother resident's son becomes sick days after visiting and he later tests positive, according to his family.",
-    "speaker": "He's just had this episode so far, decreased level of consciousness.",
-    "mp3": "20-1190-trim.mp3",
-    "vtt": "1190-captions.vtt"
+    "date": "January 23",
+    "messaging": "Situation report from the Department of Health: \"Washington State has made improvements in our capacity to respond to disease outbreaks. We are now better poised to respond to this new threat quickly and collaboratively.\"",
+    "messaging_url": "http://documentcloud.org/documents/6811444-SitRep3-012320.html"
   },
   {
-    "year": "Feb",
-    "date": "2/24/2020",
-    "lifeCare": "A 73-year-old woman is taken to the hospital. She later becomes the first resident to test positive for COVID-19 and dies March 2. \n\nA 55-year-old resident goes to the hospital later that day. He dies Feb. 26 but is not linked to COVID-19 until later.",
-    "speaker": "She's sick... She's shivering.",
-    "mp3": "20-1293-trim-2.mp3",
-    "vtt": "1293-captions.vtt",
-    "speaker2": "Fever, increased breathlessness",
-    "mp3_2": "1298-trim.mp3",
-    "vtt2": "1298-captions.vtt"
+    "date": "January 24",
+    "messaging": "Experts express little concern about the novel coronavirus spreading in the U.S. and say Washington is well prepared.",
+    "messaging_url": "https://www.seattletimes.com/seattle-news/health/why-washington-states-health-experts-arent-panicking-yet-about-the-wuhan-coronavirus/"
   },
   {
-    "year": "Feb",
-    "date": "2/26/2020",
-    "lifeCare": "A Mardi Gras party is held at Life Care.\n\nLife Care notifies the state Department of Health of an increase in respiratory illnesses that day, according to a spokesman. The agency said it did not receive notification.\n\nAn 86-year-old dies at another facility after contracting the virus while a resident at Life Care; her death is later linked to COVID-19.\n\nA resident in her 90s is sent to the hospital that night.",
-    "speaker": "She had pneumonia... she had a hard time breathing.",
-    "mp3": "1353-trim-2.mp3",
-    "vtt": "1353-captions.vtt",
-    "deaths": 2
+    "date": "January 25",
+    "action": "City of Sammamish cancels Lunar New Year celebration over coronavirus fears.",
+    "action_url": "https://www.seattletimes.com/seattle-news/eastside/sammamish-cancels-lunar-new-year-festival-over-coronavirus-fears/"
   },
   {
-    "year": "Feb",
-    "date": "2/27/2020",
-    "lifeCare": "Life Care Center and EvergreenHealth separately notify county health officials of a spike in respiratory illness from the nursing home.\n\nTwo more residents are sent to the hospital with breathing trouble.",
-    "speaker": "So she can't speak in full sentences?",
-    "mp3": "1366-trim-2.mp3",
-    "vtt": "1366-captions.vtt",
-    "speaker2": "She's also sweating, clammy, having a hard time breathing.",
-    "mp3_2": "1369-trim-2.mp3",
-    "vtt2": "1369-captions.vtt",
-    "deaths": 2,
-    "wa": "The CDC expands testing critieria - previously focused on international travel - to people with unexplained severe symptoms not linked to the flu."
+    "date": "January 26",
+    "week": "Week 3: Four state resource requests"
   },
   {
-    "year": "Feb",
-    "date": "2/28/2020",
-    "lifeCare": "Officials learn 20 residents are ill, with negative flu test results. A resident in her 80s with pneumonia is sent to the hospital with difficulty breathing.\n\nCOVID-19 test results for a Life Care resident and employee come back positive. King County officials contact the state and U.S. Centers for Disease Control and Prevention.",
-    "speaker": "She was diagnosed with pneumonia a couple of days ago.",
-    "mp3": "20-1379-trim.mp3",
-    "vtt": "1379-captions.vtt",
-    "deaths": 2,
-    "wa": "Expanded testing begins at the state Department of Health's lab in Shoreline. \n \nTwo police officers and 25 firefighters are quarantined after responding to calls involving Life Care patients.",
-    "url": "https://www.seattletimes.com/seattle-news/health/some-kirkland-firefighters-who-responded-to-early-cases-of-novel-coronavirus-have-flu-like-symptoms-city-says/"
+    "date": "January 29",
+    "action": "Gov. Jay Inslee asks federal Centers for Disease Control and Prevention to screen passengers arriving at Sea-Tac for temperature and recent health history.",
+    "action_url": "https://www.seattletimes.com/seattle-news/health/inslee-asks-cdc-for-airport-screenings-to-include-temperature-readings/"
   },
   {
-    "year": "Feb",
-    "date": "2/29/2020",
-    "lifeCare": "King County announces first COVID-19 cases from Life Care: a resident in her 70s and employee in her 40s. \n\nA man in his 70s dies at EvergreenHealth. Announced the next day, it's the first known death connected to Life Care. \n\nA 79-year-old woman is taken to the hospital with a fever and difficulty breathing.",
-    "speaker": "This is the place that has the coronavirus.",
-    "mp3": "1413_R-trim-2.mp3",
-    "vtt": "1413-captions-2.vtt",
-    "cases": 2,
-    "deaths": 3,
-    "videoWaText": "EvergreenHealth and Public Health officials provide update on coronavirus infections and first death in King County",
-    "videoWA": "https://www.seattletimes.com/video/6137295857001/update-on-novel-coronavirus-infections-and-death-in-king-county"
+    "date": "January 29",
+    "action": "Situation report: DOH is developing take-home kits for people under public-health monitoring but is constrained by supply-chain shortages.",
+    "action_url": "https://www.documentcloud.org/documents/6811450-DOH-SitRep9-012920.html"
   },
   {
-    "year": "March",
-    "date": "3/1/2020",
-    "lifeCare": "Public Health announces new Life Care cases, bringing total to four, including one death.\n\nAnother resident, a man in his 60s, is taken to the hospital.",
-    "speaker": "He's turning blue, he's having a hard time breathing.",
-    "mp3": "1436-trim.mp3",
-    "vtt": "1436-captions.vtt",
-    "cases": 6,
-    "deaths": 7
+    "date": "January 29",
+    "infection": "Life Care Center of Kirkland calls 911 for a resident with trouble breathing. A firefighter who responded was exposed to COVID-19 but later tested negative, according to a union representative.",
+    "infection_url": "https://www.seattletimes.com/seattle-news/times-watchdog/coronavirus-spread-in-a-kirkland-nursing-home-for-weeks-while-response-stalled/"
   },
   {
-    "year": "March",
-    "date": "3/2/2020",
-    "lifeCare": "Three residents, two 90-year-old women and a 74-year-old man, are taken to the hospital.",
-    "speaker": "She has been exposed to someone with the coronavirus, is that correct?",
-    "mp3": "1449-trim-2.mp3",
-    "vtt": "1449-captions.vtt",
-    "speaker2": "We've had a couple coronavirus cases.",
-    "mp3_2": "1450-trim.mp3",
-    "vtt2": "1450-captions.vtt",
-    "speaker3": "Patient was having difficulty breathing, dry cough as well.",
-    "mp3_3": "1467-trim.mp3",
-    "vtt3": "1467-captions.vtt",
-    "cases": 9,
-    "deaths": 9,
-    "videoWaText": "Governor Inslee expresses condolences for novel coronavirus deaths",
-    "videoWA": "https://www.seattletimes.com/video/6137809213001/governor-inslee-expresses-condolences-for-novel-coronavirus-deaths"
+    "date": "January 30",
+    "infection": "First known case of person-to-person transmission in the U.S. is recorded in Chicago.",
+    "infection_url": "https://www.seattletimes.com/seattle-news/health/us-reports-1st-case-of-person-to-person-spread-of-new-virus/"
   },
   {
-    "year": "March",
-    "date": "3/3/2020",
-    "cases": 14,
-    "deaths": 11,
-    "wa": "CDC lifts all restrictions on who can get tested.",
-    "videoWaText": "Coronavirus samples tested at UW Medicine Virology Lab",
-    "videoWA": "https://www.seattletimes.com/video/6138786644001/coronavirus-samples-tested-at-uw-medicine-virology-lab"
+    "date": "January 30",
+    "messaging": "“We think we have it very well under control,” Trump said. “We have very little problem in this country at this moment — five — and those people are all recuperating successfully.\"",
+    "messaging_url": "https://www.politico.com/news/2020/01/30/trump-close-cooperation-china-coronavirus-109701"
   },
   {
-    "year": "March",
-    "date": "3/4/2020",
-    "lifeCare": "None of the residents remaining at the nursing have been tested, but they will be soon, according to Public Health - Seattle & King County. “They likely have been infected or are at high risk for infection,\" said health officer Dr. Jeff Duchin.",
-    "cases": 25,
-    "deaths": 13,
-    "videoText": "Mike Weatherill speaks about his mother who died on March 4: \"Everybody just moved too slow\"",
-    "video": "https://www.seattletimes.com/video/6138873797001/mike-weatherill-everybody-just-moved-too-slow"
+    "date": "January 31",
+    "action": "U.S. bars travelers from entering who have been to China in previous 14 days, excluding U.S. citizens and their family.",
+    "action_url": "https://www.seattletimes.com/seattle-news/health/china-reports-new-cases-of-virus-death-toll-rises-to-213/"
   },
   {
-    "year": "March",
-    "date": "3/5/2020",
-    "lifeCare": "Residents' families hold a news conference to vent frustrations over communication, lack of testing.",
-    "cases": 30,
-    "deaths": 17,
-    "url": "https://www.seattletimes.com/seattle-news/families-of-nursing-home-residents-at-center-of-coronavirus-outbreak-demand-answers/",
-    "videoText": "Families of residents at Kirkland nursing home decry response to coronavirus outbreak",
-    "video": "https://www.seattletimes.com/video/6139089616001/families-of-residents-at-kirkland-nursing-home-decry-response-to-coronavirus-outbreak"
+    "date": "February 2",
+    "week": "Week 4: 13 state resource requests"
   },
   {
-    "year": "March",
-    "date": "3/6/2020",
-    "lifeCare": "A federal medical disaster team arrives at Life Care.",
-    "cases": 38,
-    "deaths": 22,
-    "wa": "Inslee agrees to set up an incident-command structure for nursing homes that experience outbreaks."
+    "date": "February 4",
+    "action": "Situation report: DOH asks federal officials about the shelf life of expired N95 masks in a state warehouse.",
+    "action_url": "https://www.documentcloud.org/documents/6811453-DOH-SitRep15-020420.html"
   },
   {
-    "year": "March",
-    "date": "3/7/2020",
-    "lifeCare": "Life Care holds its first news conference. A spokesman says not all residents have been tested, and the number of deaths and illnesses could be higher than originally thought. \n\nLife Care obtains enough kits to test all residents that night. \n\nWashington state Department of Social and Health Services and U.S. Centers for Medicare and Medicaid Services enters Life Care to begin investigation.",
-    "cases": 48,
-    "deaths": 22,
-    "url": "https://www.seattletimes.com/seattle-news/coronavirus-cases-may-be-higher-than-reported-at-kirkland-nursing-home/",
-    "videoText": "Life Care Center spokesperson: Coronavirus is \"volatile, unpredictable\"",
-    "video": "https://www.seattletimes.com/video/6139376705001/coronavirus-is-volatile-unpredictable"
+    "date": "February 5",
+    "messaging": "DOH website: \"While the current situation poses a public health threat, we have no evidence the virus is spreading in Washington so the risk to the general public is low.\"",
+    "messaging_url": "https://web.archive.org/web/20200206044317/https://www.doh.wa.gov/emergencies/coronavirus"
   },
   {
-    "year": "March",
-    "date": "3/14/2020",
-    "lifeCare": "University of Washington collects samples from remaining symptomatic Life Care employees in the nursing home parking lot.",
-    "cases": 142,
-    "deaths": 29
+    "date": "February 9",
+    "week": "Week 5: 52 state resource requests"
   },
   {
-    "year": "March",
-    "date": "3/18/2020",
-    "lifeCare": "Of 120 residents at Life Care on Feb. 19, 43 remain in the nursing home and 31 have tested positive for COVID-19. \n\nOf 180 employees, 102 have shown symptoms and over 45 have tested positive.\n\nIn total, 142 confirmed cases, including 35 deaths, have been directly linked to Life Care Center of Kirkland.",
-    "cases": 142,
-    "deaths": 35,
-    "wa": "CDC said limited testing, access to protective gear and staff working while sick contributed to COVID-19's spread.",
-    "urlWA": "https://www.seattletimes.com/seattle-news/health/sick-staff-may-have-fueled-outbreak-in-seattle-area-care-centers/"
+    "date": "February 10",
+    "infection": "Life Care Center recognizes an uptick in residents with respiratory illness.",
+    "infection_url": "https://www.seattletimes.com/seattle-news/times-watchdog/coronavirus-spread-in-a-kirkland-nursing-home-for-weeks-while-response-stalled/"
+  },
+  {
+    "date": "February 10",
+    "messaging": "President Trump: \"A lot of people think that goes away in April with the heat, as the heat comes in. Typically, that will go away in April. We’re in great shape, though.\"",
+    "messaging_url": "https://www.factcheck.org/2020/02/will-the-new-coronavirus-go-away-in-april/"
+  },
+  {
+    "date": "February 16",
+    "week": "Week 6: 25 state resource requests"
+  },
+  {
+    "date": "February 18",
+    "action": "Situation report: DOH delivered a package of 13 \"non-pharmaceutical interventions\" to agency executives.",
+    "action_url": "https://www.documentcloud.org/documents/6811459-DOH-SitRep-29-021820.html"
+  },
+  {
+    "date": "February 19",
+    "action": "A state investigator visits Life Care regarding a suspected case of tuberculosis, finds all infection-control measures in order and no residents in isolation."
+  },
+  {
+    "date": "February 19",
+    "infection": "Life Care resident taken to EvergreenHealth Medical Center later tests postive for coronavirus.",
+    "infection_url": "https://www.seattletimes.com/seattle-news/times-watchdog/coronavirus-spread-in-a-kirkland-nursing-home-for-weeks-while-response-stalled/"
+  },
+  {
+    "date": "February 23",
+    "week": "Week 7: 28 state resource requests"
+  },
+  {
+    "date": "February 24",
+    "infection": "A Life Care resident in his 50s is hospitalized and later dies at Harborview Medical Center after testing positive for COVID-19."
+  },
+  {
+    "date": "February 24",
+    "messaging": "\"The Coronavirus is very much under control in the USA,\" President Trump tweets. \"Stock Market starting to look very good to me!\"",
+    "messaging_url": "https://twitter.com/realDonaldTrump/status/1232058127740174339?s=20"
+  },
+  {
+    "date": "February 26",
+    "action": "Northshore School District Superintendent Michelle Reid closes Bothell High School for deep cleaning in response to an employee's possible exposure to COVID-19.",
+    "action_url": "https://www.seattletimes.com/seattle-news/health/bothell-high-school-closed-thursday-in-an-abundance-of-caution-over-coronavirus-fears-after-staffer-traveled-internationally/"
+  },
+  {
+    "date": "February 26",
+    "infection": "A man in his 50s and a woman in her 80s, both of whom had been at Life Care, die and are later revealed to have tested positive for COVID-19. ",
+    "infection_url": "https://www.seattletimes.com/seattle-news/health/seventh-washington-state-residents-death-linked-to-coronavirus-disease/"
+  },
+  {
+    "date": "February 26",
+    "messaging": "Public Heath Seattle - King County (PHSKC): \"Currently, the health risk for COVID-19 in the United States is considered low to the general public and to Washingtonians.\"",
+    "messaging_url": "https://publichealthinsider.com/2020/02/26/statement-on-bothell-high-school-closure/"
+  },
+  {
+    "date": "February 27",
+    "infection": "Life Care calls PHSKC about \"increased numbers\" of patients with respiratory illness, which wasn't unusual for the season. There was no mention of COVID-19."
+  },
+  {
+    "date": "February 27",
+    "infection": "EvergreenHealth calls PHSKC about two patients with unexplained pneumonia; one of them was a Life Care resident."
+  },
+  {
+    "date": "February 27",
+    "messaging": "President Donald Trump: “It’s going to disappear. One day — it’s like a miracle — it will disappear.\"",
+    "messaging_url": "https://www.seattletimes.com/seattle-news/health/ap-fact-check-trump-says-he-always-knew-virus-was-pandemic/"
+  },
+  {
+    "date": "February 28",
+    "infection": "PHSKC staff get a call from another nearby hospital reporting a patient, a Life Care employee, with signs of COVID-19."
+  },
+  {
+    "date": "February 28",
+    "infection": "State and local public-health officials announce two new cases of COVID-19.",
+    "infection_url": "https://www.seattletimes.com/seattle-news/health/2-new-coronavirus-cases-emerge-in-washington-in-king-county-and-snohomish-county/"
+  },
+  {
+    "date": "February 28",
+    "messaging": "DOH announces two additional positive COVID-19 tests, saying it has the potential to become a serious threat. Officials say there's no strong evidence of person-to-person transmission.",
+    "messaging_url": "https://web.archive.org/web/20200301003849/https://www.doh.wa.gov/Newsroom/Articles/ID/1103/Additional-Cases-of-COVID-19-in-Washington-State; https://www.seattletimes.com/seattle-news/health/washington-will-speed-up-coronavirus-testing-by-processing-samples-in-state/"
+  },
+  {
+    "date": "February 29",
+    "action": "Gov. Inslee declares emergency after first confirmed death from COVID-19 and outbreak at Life Care.",
+    "action_url": "https://www.seattletimes.com/seattle-news/health/one-king-county-patient-has-died-due-to-covid-19-infection/"
+  },
+  {
+    "date": "February 29",
+    "infection": "PHSKC announces the nation's first death due to coronavirus, and three more COVID-19 cases. More than 50 people associated with Life Care are ill and being tested.",
+    "infection_url": "https://www.kingcounty.gov/depts/health/news/2020/February/29-covid19.aspx"
+  },
+  {
+    "date": "March 1",
+    "week": "Week 8: 32 state resource requests"
+  },
+  {
+    "date": "March 2",
+    "messaging": "DOH website: \"The risk of exposure is increasing for people who live in communities in Washington state with reported spread of COVID-19, though risk is still relatively low.\"",
+    "messaging_url": "https://web.archive.org/web/20200302200037/https://www.doh.wa.gov/emergencies/coronavirus"
+  },
+  {
+    "date": "March 3",
+    "infection": "North Carolina identifies its first case of COVID-19, a person who had been exposed at Life Care in Kirkland.",
+    "infection_url": "https://www.ncdhhs.gov/news/press-releases/governors-task-force-announces-state-laboratory-now-able-test-covid-19"
+  },
+  {
+    "date": "March 4",
+    "messaging": "DOH website: \"The risk of exposure is increasing for people who live in Washington state.\"",
+    "messaging_url": "https://web.archive.org/web/20200304103345/https://www.doh.wa.gov/emergencies/coronavirus"
+  },
+  {
+    "date": "March 5",
+    "action": "Situation report: There are signs of an \"unsustainable hoarding cycle.\" DOH received supplies from the Strategic National Stockpile but didn't get everything it requested. ",
+    "action_url": "https://www.documentcloud.org/documents/6811473-SEOC-SitRep3-030520.html"
+  },
+  {
+    "date": "March 5",
+    "messaging": "Vice President Pence meets with Inslee and promises support",
+    "messaging_url": "https://www.seattletimes.com/seattle-news/politics/vice-president-pence-visits-washington-in-response-to-coronavirus-outbreak-as-partisanship-takes-a-break/"
+  },
+  {
+    "date": "March 7",
+    "infection": "More than 33,000 fans attend Sounders game at CenturyLink Field, where a part-time stadium worker tested positive in late February, with public health officials recommending people at higher risk of infection stay home.",
+    "infection_url": "https://www.seattletimes.com/sports/sounders/late-penalty-kick-helps-sounders-salvage-draw-against-columbus-in-front-of-lower-turnout-at-home/"
+  },
+  {
+    "date": "March 8",
+    "week": "Week 9: 232 state resource requests"
+  },
+  {
+    "date": "March 10",
+    "action": "Situation report: \"The virus that causes COVID-19 seems to be spreading easily and sustainably in the community\"",
+    "action_url": "https://www.documentcloud.org/documents/6811476-SEOC-SitRep6-031020.html"
+  },
+  {
+    "date": "March 10",
+    "messaging": "President Trump: \"We’re prepared, and we’re doing a great job with it. And it will go away. Just stay calm. It will go away.”",
+    "messaging_url": "https://www.whitehouse.gov/briefings-statements/remarks-president-trump-meeting-republican-senators-2/?utm_source=link&utm_medium=header"
+  },
+  {
+    "date": "March 11",
+    "action": "Inslee bans gatherings of more than 250 people.",
+    "action_url": "https://www.governor.wa.gov/sites/default/files/proclamations/20-07%20Coronavirus%20%28tmp%29.pdf"
+  },
+  {
+    "date": "March 11",
+    "messaging": "World Health Organization designates COVID-19 as a pandemic."
+  },
+  {
+    "date": "March 12",
+    "action": "Proclamation: All K-12 schools, public and private, must close until April 24 in King, Pierce and Snohomish counties.",
+    "action_url": "https://www.governor.wa.gov/sites/default/files/proclamations/20-08%20Coronavirus%20%28tmp%29.pdf"
+  },
+  {
+    "date": "March 15",
+    "action": "Inslee bans dining in restaurants, limits all public gatherings.",
+    "action_url": "https://www.seattletimes.com/seattle-news/king-county-and-washington-state-to-act-on-bars-restaurants-and-gatherings/"
+  },
+  {
+    "date": "March 15",
+    "week": "Week 10: 526 state resource requests"
   }
 ]
