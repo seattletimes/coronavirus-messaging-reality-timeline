@@ -1,0 +1,192 @@
+[
+  {
+    "year": "Jan",
+    "date": "1/21/2020",
+    "wa": "First known case of COVID-19 in U.S. announced in Snohomish County.",
+    "url": "https://www.seattletimes.com/seattle-news/health/case-of-wuhan-coronavirus-detected-in-washington-state-first-in-united-states/"
+  },
+  {
+    "year": "Jan",
+    "date": "1/29/2020",
+    "lifeCare": "A 911 call is made from the nursing home that day for an 85-year-old woman in respiratory distress.\n \nAccording to a union representative, a Kirkland firefighter is exposed after contact with a patient linked to Life Care. The firefighter doesn't test positive for COVID-19.",
+    "speaker": "She's having respiratory distress.",
+    "mp3": "20-685_1-trim.mp3",
+    "vtt": "685-captions.vtt"
+  },
+  {
+    "year": "Feb",
+    "date": "2/8/2020",
+    "lifeCare": "A 911 call is made after a visitor in her 60s has chest pain and shortness of breath in the nursing home lobby. It's unknown if this is linked to coronavirus.",
+    "speaker": "We have a lady in the lobby that is having chest pain and shortness of breath.",
+    "mp3": "20-927-trim.mp3",
+    "vtt": "927-captions.vtt"
+  },
+  {
+    "year": "Feb",
+    "date": "2/10/2020",
+    "lifeCare": "Staff notice an outbreak of respiratory illness and put up warning signs, according to Life Care.",
+    "cases": 0
+  },
+  {
+    "year": "Feb",
+    "date": "2/18/2020",
+    "lifeCare": "A 56-year-old resident is taken to the hospital with shortness of breath. It's unknown if this is linked to coronavirus.",
+    "speaker": "She's short of breath and her vital signs are a bit elevated now.",
+    "mp3": "20-1168_1-trim.mp3",
+    "vtt": "1168-captions.vtt"
+  },
+  {
+    "year": "Feb",
+    "date": "2/19/2020",
+    "lifeCare": "A 60-year-old man becomes first known resident to be hospitalized for COVID-19 symptoms, but doesn't test positive until later. \n\nAnother resident's son becomes sick days after visiting and he later tests positive, according to his family.",
+    "speaker": "He's just had this episode so far, decreased level of consciousness.",
+    "mp3": "20-1190-trim.mp3",
+    "vtt": "1190-captions.vtt"
+  },
+  {
+    "year": "Feb",
+    "date": "2/24/2020",
+    "lifeCare": "A 73-year-old woman is taken to the hospital. She later becomes the first resident to test positive for COVID-19 and dies March 2. \n\nA 55-year-old resident goes to the hospital later that day. He dies Feb. 26 but is not linked to COVID-19 until later.",
+    "speaker": "She's sick... She's shivering.",
+    "mp3": "20-1293-trim-2.mp3",
+    "vtt": "1293-captions.vtt",
+    "speaker2": "Fever, increased breathlessness",
+    "mp3_2": "1298-trim.mp3",
+    "vtt2": "1298-captions.vtt"
+  },
+  {
+    "year": "Feb",
+    "date": "2/26/2020",
+    "lifeCare": "A Mardi Gras party is held at Life Care.\n\nLife Care notifies the state Department of Health of an increase in respiratory illnesses that day, according to a spokesman. The agency said it did not receive notification.\n\nAn 86-year-old dies at another facility after contracting the virus while a resident at Life Care; her death is later linked to COVID-19.\n\nA resident in her 90s is sent to the hospital that night.",
+    "speaker": "She had pneumonia... she had a hard time breathing.",
+    "mp3": "1353-trim-2.mp3",
+    "vtt": "1353-captions.vtt",
+    "deaths": 2
+  },
+  {
+    "year": "Feb",
+    "date": "2/27/2020",
+    "lifeCare": "Life Care Center and EvergreenHealth separately notify county health officials of a spike in respiratory illness from the nursing home.\n\nTwo more residents are sent to the hospital with breathing trouble.",
+    "speaker": "So she can't speak in full sentences?",
+    "mp3": "1366-trim-2.mp3",
+    "vtt": "1366-captions.vtt",
+    "speaker2": "She's also sweating, clammy, having a hard time breathing.",
+    "mp3_2": "1369-trim-2.mp3",
+    "vtt2": "1369-captions.vtt",
+    "deaths": 2,
+    "wa": "The CDC expands testing critieria - previously focused on international travel - to people with unexplained severe symptoms not linked to the flu."
+  },
+  {
+    "year": "Feb",
+    "date": "2/28/2020",
+    "lifeCare": "Officials learn 20 residents are ill, with negative flu test results. A resident in her 80s with pneumonia is sent to the hospital with difficulty breathing.\n\nCOVID-19 test results for a Life Care resident and employee come back positive. King County officials contact the state and U.S. Centers for Disease Control and Prevention.",
+    "speaker": "She was diagnosed with pneumonia a couple of days ago.",
+    "mp3": "20-1379-trim.mp3",
+    "vtt": "1379-captions.vtt",
+    "deaths": 2,
+    "wa": "Expanded testing begins at the state Department of Health's lab in Shoreline. \n \nTwo police officers and 25 firefighters are quarantined after responding to calls involving Life Care patients.",
+    "url": "https://www.seattletimes.com/seattle-news/health/some-kirkland-firefighters-who-responded-to-early-cases-of-novel-coronavirus-have-flu-like-symptoms-city-says/"
+  },
+  {
+    "year": "Feb",
+    "date": "2/29/2020",
+    "lifeCare": "King County announces first COVID-19 cases from Life Care: a resident in her 70s and employee in her 40s. \n\nA man in his 70s dies at EvergreenHealth. Announced the next day, it's the first known death connected to Life Care. \n\nA 79-year-old woman is taken to the hospital with a fever and difficulty breathing.",
+    "speaker": "This is the place that has the coronavirus.",
+    "mp3": "1413_R-trim-2.mp3",
+    "vtt": "1413-captions-2.vtt",
+    "cases": 2,
+    "deaths": 3,
+    "videoWaText": "EvergreenHealth and Public Health officials provide update on coronavirus infections and first death in King County",
+    "videoWA": "https://www.seattletimes.com/video/6137295857001/update-on-novel-coronavirus-infections-and-death-in-king-county"
+  },
+  {
+    "year": "March",
+    "date": "3/1/2020",
+    "lifeCare": "Public Health announces new Life Care cases, bringing total to four, including one death.\n\nAnother resident, a man in his 60s, is taken to the hospital.",
+    "speaker": "He's turning blue, he's having a hard time breathing.",
+    "mp3": "1436-trim.mp3",
+    "vtt": "1436-captions.vtt",
+    "cases": 6,
+    "deaths": 7
+  },
+  {
+    "year": "March",
+    "date": "3/2/2020",
+    "lifeCare": "Three residents, two 90-year-old women and a 74-year-old man, are taken to the hospital.",
+    "speaker": "She has been exposed to someone with the coronavirus, is that correct?",
+    "mp3": "1449-trim-2.mp3",
+    "vtt": "1449-captions.vtt",
+    "speaker2": "We've had a couple coronavirus cases.",
+    "mp3_2": "1450-trim.mp3",
+    "vtt2": "1450-captions.vtt",
+    "speaker3": "Patient was having difficulty breathing, dry cough as well.",
+    "mp3_3": "1467-trim.mp3",
+    "vtt3": "1467-captions.vtt",
+    "cases": 9,
+    "deaths": 9,
+    "videoWaText": "Governor Inslee expresses condolences for novel coronavirus deaths",
+    "videoWA": "https://www.seattletimes.com/video/6137809213001/governor-inslee-expresses-condolences-for-novel-coronavirus-deaths"
+  },
+  {
+    "year": "March",
+    "date": "3/3/2020",
+    "cases": 14,
+    "deaths": 11,
+    "wa": "CDC lifts all restrictions on who can get tested.",
+    "videoWaText": "Coronavirus samples tested at UW Medicine Virology Lab",
+    "videoWA": "https://www.seattletimes.com/video/6138786644001/coronavirus-samples-tested-at-uw-medicine-virology-lab"
+  },
+  {
+    "year": "March",
+    "date": "3/4/2020",
+    "lifeCare": "None of the residents remaining at the nursing have been tested, but they will be soon, according to Public Health - Seattle & King County. “They likely have been infected or are at high risk for infection,\" said health officer Dr. Jeff Duchin.",
+    "cases": 25,
+    "deaths": 13,
+    "videoText": "Mike Weatherill speaks about his mother who died on March 4: \"Everybody just moved too slow\"",
+    "video": "https://www.seattletimes.com/video/6138873797001/mike-weatherill-everybody-just-moved-too-slow"
+  },
+  {
+    "year": "March",
+    "date": "3/5/2020",
+    "lifeCare": "Residents' families hold a news conference to vent frustrations over communication, lack of testing.",
+    "cases": 30,
+    "deaths": 17,
+    "url": "https://www.seattletimes.com/seattle-news/families-of-nursing-home-residents-at-center-of-coronavirus-outbreak-demand-answers/",
+    "videoText": "Families of residents at Kirkland nursing home decry response to coronavirus outbreak",
+    "video": "https://www.seattletimes.com/video/6139089616001/families-of-residents-at-kirkland-nursing-home-decry-response-to-coronavirus-outbreak"
+  },
+  {
+    "year": "March",
+    "date": "3/6/2020",
+    "lifeCare": "A federal medical disaster team arrives at Life Care.",
+    "cases": 38,
+    "deaths": 22,
+    "wa": "Inslee agrees to set up an incident-command structure for nursing homes that experience outbreaks."
+  },
+  {
+    "year": "March",
+    "date": "3/7/2020",
+    "lifeCare": "Life Care holds its first news conference. A spokesman says not all residents have been tested, and the number of deaths and illnesses could be higher than originally thought. \n\nLife Care obtains enough kits to test all residents that night. \n\nWashington state Department of Social and Health Services and U.S. Centers for Medicare and Medicaid Services enters Life Care to begin investigation.",
+    "cases": 48,
+    "deaths": 22,
+    "url": "https://www.seattletimes.com/seattle-news/coronavirus-cases-may-be-higher-than-reported-at-kirkland-nursing-home/",
+    "videoText": "Life Care Center spokesperson: Coronavirus is \"volatile, unpredictable\"",
+    "video": "https://www.seattletimes.com/video/6139376705001/coronavirus-is-volatile-unpredictable"
+  },
+  {
+    "year": "March",
+    "date": "3/14/2020",
+    "lifeCare": "University of Washington collects samples from remaining symptomatic Life Care employees in the nursing home parking lot.",
+    "cases": 142,
+    "deaths": 29
+  },
+  {
+    "year": "March",
+    "date": "3/18/2020",
+    "lifeCare": "Of 120 residents at Life Care on Feb. 19, 43 remain in the nursing home and 31 have tested positive for COVID-19. \n\nOf 180 employees, 102 have shown symptoms and over 45 have tested positive.\n\nIn total, 142 confirmed cases, including 35 deaths, have been directly linked to Life Care Center of Kirkland.",
+    "cases": 142,
+    "deaths": 35,
+    "wa": "CDC said limited testing, access to protective gear and staff working while sick contributed to COVID-19's spread.",
+    "urlWA": "https://www.seattletimes.com/seattle-news/health/sick-staff-may-have-fueled-outbreak-in-seattle-area-care-centers/"
+  }
+]
