@@ -85,7 +85,6 @@
     "date": "February 26",
     "infection": "A man in his 50s and a woman in her 80s, both of whom had been at Life Care, die and are later revealed to have tested positive for COVID-19. ",
     "infection_url": "https://www.seattletimes.com/seattle-news/health/seventh-washington-state-residents-death-linked-to-coronavirus-disease/",
-    "infection2": "EvergreenHealth calls PHSKC about two patients with unexplained pneumonia; one of them was a Life Care resident.",
     "action": "Northshore School District Superintendent Michelle Reid closes Bothell High School for deep cleaning in response to an employee's possible exposure to COVID-19.",
     "action_url": "https://www.seattletimes.com/seattle-news/health/bothell-high-school-closed-thursday-in-an-abundance-of-caution-over-coronavirus-fears-after-staffer-traveled-internationally/",
     "messaging": "Public Heath Seattle - King County (PHSKC): \"Currently, the health risk for COVID-19 in the United States is considered low to the general public and to Washingtonians.\"",
@@ -94,7 +93,7 @@
   {
     "date": "February 27",
     "infection": "EvergreenHealth calls PHSKC about two patients with unexplained pneumonia; one of them was a Life Care resident.",
-    "messaging": "President Donald Trump: “It’s going to disappear. One day — it’s like a miracle — it will disappear.\"",
+    "messaging": "President Trump: “It’s going to disappear. One day — it’s like a miracle — it will disappear.\"",
     "messaging_url": "https://www.seattletimes.com/seattle-news/health/ap-fact-check-trump-says-he-always-knew-virus-was-pandemic/"
   },
   {
