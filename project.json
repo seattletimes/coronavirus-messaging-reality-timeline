@@ -2,11 +2,11 @@
   "s3": {
     "stage": {
       "bucket": "projects-staging.seattletimes.com",
-      "path": ""
+      "path": "isotonic-injury"
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": ""
+      "path": "2020/local/coronavirus-60-days"
     }
   },
   "title": "",
@@ -18,5 +18,5 @@
   "sheets": ["1aPZkxvxRETHvZc7fgf9MTiQtr3nh1YcGG21tQ88mZN4"],
   "docs": [],
   "embedded": true,
-  "production": false
+  "production": true
 }

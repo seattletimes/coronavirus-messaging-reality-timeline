@@ -22,51 +22,62 @@
   }
 }
 
+.week {
+
+  color: @df-middle-gray;
+  font-size: 13px;
+}
+
 .flex-grid .col {
   flex: 2;
-  // border-bottom: 1px solid @df-light-gray;
   padding: 2px 10px 10px 10px;
   margin: 0 4px;
 
     @media @mobile {
       border-bottom: none;
-      padding: 0;
+      margin: 0;
+      padding: 2px;
     }
 
-  &.week {
-    display: inline;
-  }
-
   &.date {
-    flex: 0.75;
+    flex: 1;
     text-align: left;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: bold;
     padding: 4px 8px 4px 0;
     border-top: 2px solid @df-middle-gray;
     border-bottom: 1px solid white;
 
     @media @mobile {
-      border-top: 1px solid @df-light-gray;
+      border-top: none;
+      text-transform: uppercase;
+      font-size: 18px;
     }
   }
 
+
+
   &.infect {
-    flex: 2.5;
+    flex: 2;
     font-size: 14px;
     background-color: #f1e2de;
-    border-top: 3px solid #690016;
+      a:link {
+        color: #550214;
+      }
 
-    // @media @mobile {
-    //   background-color: white;
-    // }
+    @media @mobile {
+      background-color: white;
+    }
   }
 
   &.message {
-    flex: 2.5;
+    flex: 2;
     font-size: 14px;
     background-color: #d8ded6;
-    border-top: 3px solid #006849;
+      a:link {
+        color: #014632;
+      }
+
 
     @media @mobile {
       background-color: white;
@@ -74,10 +85,9 @@
   }
 
   &.action {
-    flex: 2.5;
+    flex: 2;
     font-size: 14px;
     background-color: #cad6dd;
-    border-top: 3px solid #007fa4;
 
     @media @mobile {
       background-color: white;
@@ -93,22 +103,25 @@
   margin: 0 4px;
 
   &.infect {
-    flex: 2.5;
-    background-color: @df-footer-gray;
+    flex: 2;
+    background-color: #f1e2de;
+    color: #690016;
   }
 
   &.message {
-    flex: 2.5;
-    background-color: @df-footer-gray;
+    flex: 2;
+    background-color: #d8ded6;
+    color: #006849;
   }
 
   &.action {
-    flex: 2.5;
-    background-color: @df-footer-gray;
+    flex: 2;
+    background-color: #cad6dd;
+    color: #007fa4;
   }
 
   &.date {
-    flex: 0.75;
+    flex: 1;
     text-align: left;
     padding-left: 0px;
   }
@@ -130,7 +143,6 @@ body {
     display: block;
     .col {
       width: 100%;
-      margin: 0 0 10px 0;
     }
   }
 }
@@ -143,9 +155,17 @@ h1 {
   }
 }
 
-p {
+.chatter {
+  padding: 0 0 10px;
   @media @mobile {
     font-size: 16px;
+  }
+
+}
+
+p {
+  @media @mobile {
+    font-size: 14px;
   }
 }
 
@@ -176,7 +196,7 @@ p {
       text-transform: uppercase;
       font-weight: bold;
       width: 100%;
-      background: @df-light-gray;
+      background: @df-middle-gray;
       cursor: pointer;
       font-size: 16px;
     }
@@ -189,7 +209,7 @@ p {
 
 
 .source {
-  flex: 2.25;
+  flex: 1.5;
   font-size: 13px;
   padding: 20px 0 10px;
   color: #999;
@@ -218,7 +238,7 @@ p {
 
 .credit {
   text-align: top;
-  flex: .75;
+  flex: 1;
   font-size: 13px;
   // padding: 20px 0 10px;
   color: #999;

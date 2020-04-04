@@ -5,20 +5,9 @@
     "infection_url": "https://www.seattletimes.com/seattle-news/health/case-of-wuhan-coronavirus-detected-in-washington-state-first-in-united-states/"
   },
   {
-    "date": "January 15",
-    "week": "Week 1"
-  },
-  {
-    "date": "January 19",
-    "week": "Week 2"
-  },
-  {
     "date": "January 21",
     "infection": "Public-health officials announce that the Snohomish County man has COVID-19, the first confirmed case in the U.S. ",
-    "infection_url": "https://www.seattletimes.com/seattle-news/health/case-of-wuhan-coronavirus-detected-in-washington-state-first-in-united-states/"
-  },
-  {
-    "date": "January 21",
+    "infection_url": "https://www.seattletimes.com/seattle-news/health/case-of-wuhan-coronavirus-detected-in-washington-state-first-in-united-states/",
     "messaging": "John Wiesman, Washington state's secretary of health, says: \"We believe the risk to the public is low.\"",
     "messaging_url": "https://web.archive.org/web/20200123124555/https://www.doh.wa.gov/Newsroom/Articles/ID/1068/Case-of-2019-novel-coronavirus-confirmed-in-Washington-state-resident"
   },
@@ -38,42 +27,25 @@
     "action_url": "https://www.seattletimes.com/seattle-news/eastside/sammamish-cancels-lunar-new-year-festival-over-coronavirus-fears/"
   },
   {
-    "date": "January 26",
-    "week": "Week 3: Four state resource requests"
-  },
-  {
-    "date": "January 29",
-    "action": "Gov. Jay Inslee asks federal Centers for Disease Control and Prevention to screen passengers arriving at Sea-Tac for temperature and recent health history.",
-    "action_url": "https://www.seattletimes.com/seattle-news/health/inslee-asks-cdc-for-airport-screenings-to-include-temperature-readings/"
-  },
-  {
-    "date": "January 29",
-    "action": "Situation report: DOH is developing take-home kits for people under public-health monitoring but is constrained by supply-chain shortages.",
-    "action_url": "https://www.documentcloud.org/documents/6811450-DOH-SitRep9-012920.html"
-  },
-  {
     "date": "January 29",
     "infection": "Life Care Center of Kirkland calls 911 for a resident with trouble breathing. A firefighter who responded was exposed to COVID-19 but later tested negative, according to a union representative.",
-    "infection_url": "https://www.seattletimes.com/seattle-news/times-watchdog/coronavirus-spread-in-a-kirkland-nursing-home-for-weeks-while-response-stalled/"
+    "infection_url": "https://www.seattletimes.com/seattle-news/times-watchdog/coronavirus-spread-in-a-kirkland-nursing-home-for-weeks-while-response-stalled/",
+    "action": "Gov. Jay Inslee asks federal Centers for Disease Control and Prevention to screen passengers arriving at Sea-Tac for temperature and recent health history.",
+    "action_url": "https://www.seattletimes.com/seattle-news/health/inslee-asks-cdc-for-airport-screenings-to-include-temperature-readings/",
+    "action2": "Situation report: DOH is developing take-home kits for people under public-health monitoring but is constrained by supply-chain shortages.",
+    "action2_url": "https://www.documentcloud.org/documents/6811450-DOH-SitRep9-012920.html"
   },
   {
     "date": "January 30",
     "infection": "First known case of person-to-person transmission in the U.S. is recorded in Chicago.",
-    "infection_url": "https://www.seattletimes.com/seattle-news/health/us-reports-1st-case-of-person-to-person-spread-of-new-virus/"
-  },
-  {
-    "date": "January 30",
-    "messaging": "“We think we have it very well under control,” Trump said. “We have very little problem in this country at this moment — five — and those people are all recuperating successfully.\"",
+    "infection_url": "https://www.seattletimes.com/seattle-news/health/us-reports-1st-case-of-person-to-person-spread-of-new-virus/",
+    "messaging": "“We think we have it very well under control,” President Trump said. “We have very little problem in this country at this moment — five — and those people are all recuperating successfully.\"",
     "messaging_url": "https://www.politico.com/news/2020/01/30/trump-close-cooperation-china-coronavirus-109701"
   },
   {
     "date": "January 31",
     "action": "U.S. bars travelers from entering who have been to China in previous 14 days, excluding U.S. citizens and their family.",
     "action_url": "https://www.seattletimes.com/seattle-news/health/china-reports-new-cases-of-virus-death-toll-rises-to-213/"
-  },
-  {
-    "date": "February 2",
-    "week": "Week 4: 13 state resource requests"
   },
   {
     "date": "February 4",
@@ -86,22 +58,11 @@
     "messaging_url": "https://web.archive.org/web/20200206044317/https://www.doh.wa.gov/emergencies/coronavirus"
   },
   {
-    "date": "February 9",
-    "week": "Week 5: 52 state resource requests"
-  },
-  {
     "date": "February 10",
     "infection": "Life Care Center recognizes an uptick in residents with respiratory illness.",
-    "infection_url": "https://www.seattletimes.com/seattle-news/times-watchdog/coronavirus-spread-in-a-kirkland-nursing-home-for-weeks-while-response-stalled/"
-  },
-  {
-    "date": "February 10",
+    "infection_url": "https://www.seattletimes.com/seattle-news/times-watchdog/coronavirus-spread-in-a-kirkland-nursing-home-for-weeks-while-response-stalled/",
     "messaging": "President Trump: \"A lot of people think that goes away in April with the heat, as the heat comes in. Typically, that will go away in April. We’re in great shape, though.\"",
     "messaging_url": "https://www.factcheck.org/2020/02/will-the-new-coronavirus-go-away-in-april/"
-  },
-  {
-    "date": "February 16",
-    "week": "Week 6: 25 state resource requests"
   },
   {
     "date": "February 18",
@@ -110,81 +71,46 @@
   },
   {
     "date": "February 19",
+    "infection": "Life Care resident taken to EvergreenHealth Medical Center later tests postive for coronavirus.",
+    "infection_url": "https://www.seattletimes.com/seattle-news/times-watchdog/coronavirus-spread-in-a-kirkland-nursing-home-for-weeks-while-response-stalled/",
     "action": "A state investigator visits Life Care regarding a suspected case of tuberculosis, finds all infection-control measures in order and no residents in isolation."
   },
   {
-    "date": "February 19",
-    "infection": "Life Care resident taken to EvergreenHealth Medical Center later tests postive for coronavirus.",
-    "infection_url": "https://www.seattletimes.com/seattle-news/times-watchdog/coronavirus-spread-in-a-kirkland-nursing-home-for-weeks-while-response-stalled/"
-  },
-  {
-    "date": "February 23",
-    "week": "Week 7: 28 state resource requests"
-  },
-  {
     "date": "February 24",
-    "infection": "A Life Care resident in his 50s is hospitalized and later dies at Harborview Medical Center after testing positive for COVID-19."
-  },
-  {
-    "date": "February 24",
+    "infection": "A Life Care resident in his 50s is hospitalized and later dies at Harborview Medical Center after testing positive for COVID-19.",
     "messaging": "\"The Coronavirus is very much under control in the USA,\" President Trump tweets. \"Stock Market starting to look very good to me!\"",
     "messaging_url": "https://twitter.com/realDonaldTrump/status/1232058127740174339?s=20"
   },
   {
     "date": "February 26",
-    "action": "Northshore School District Superintendent Michelle Reid closes Bothell High School for deep cleaning in response to an employee's possible exposure to COVID-19.",
-    "action_url": "https://www.seattletimes.com/seattle-news/health/bothell-high-school-closed-thursday-in-an-abundance-of-caution-over-coronavirus-fears-after-staffer-traveled-internationally/"
-  },
-  {
-    "date": "February 26",
     "infection": "A man in his 50s and a woman in her 80s, both of whom had been at Life Care, die and are later revealed to have tested positive for COVID-19. ",
-    "infection_url": "https://www.seattletimes.com/seattle-news/health/seventh-washington-state-residents-death-linked-to-coronavirus-disease/"
-  },
-  {
-    "date": "February 26",
+    "infection_url": "https://www.seattletimes.com/seattle-news/health/seventh-washington-state-residents-death-linked-to-coronavirus-disease/",
+    "infection2": "EvergreenHealth calls PHSKC about two patients with unexplained pneumonia; one of them was a Life Care resident.",
+    "action": "Northshore School District Superintendent Michelle Reid closes Bothell High School for deep cleaning in response to an employee's possible exposure to COVID-19.",
+    "action_url": "https://www.seattletimes.com/seattle-news/health/bothell-high-school-closed-thursday-in-an-abundance-of-caution-over-coronavirus-fears-after-staffer-traveled-internationally/",
     "messaging": "Public Heath Seattle - King County (PHSKC): \"Currently, the health risk for COVID-19 in the United States is considered low to the general public and to Washingtonians.\"",
     "messaging_url": "https://publichealthinsider.com/2020/02/26/statement-on-bothell-high-school-closure/"
   },
   {
     "date": "February 27",
-    "infection": "Life Care calls PHSKC about \"increased numbers\" of patients with respiratory illness, which wasn't unusual for the season. There was no mention of COVID-19."
-  },
-  {
-    "date": "February 27",
-    "infection": "EvergreenHealth calls PHSKC about two patients with unexplained pneumonia; one of them was a Life Care resident."
-  },
-  {
-    "date": "February 27",
+    "infection": "EvergreenHealth calls PHSKC about two patients with unexplained pneumonia; one of them was a Life Care resident.",
     "messaging": "President Donald Trump: “It’s going to disappear. One day — it’s like a miracle — it will disappear.\"",
     "messaging_url": "https://www.seattletimes.com/seattle-news/health/ap-fact-check-trump-says-he-always-knew-virus-was-pandemic/"
   },
   {
     "date": "February 28",
-    "infection": "PHSKC staff get a call from another nearby hospital reporting a patient, a Life Care employee, with signs of COVID-19."
-  },
-  {
-    "date": "February 28",
-    "infection": "State and local public-health officials announce two new cases of COVID-19.",
-    "infection_url": "https://www.seattletimes.com/seattle-news/health/2-new-coronavirus-cases-emerge-in-washington-in-king-county-and-snohomish-county/"
-  },
-  {
-    "date": "February 28",
+    "infection": "PHSKC staff get a call from another nearby hospital reporting a patient, a Life Care employee, with signs of COVID-19.",
+    "infection2": "State and local public-health officials announce two new cases of COVID-19.",
+    "infection2_url": "https://www.seattletimes.com/seattle-news/health/2-new-coronavirus-cases-emerge-in-washington-in-king-county-and-snohomish-county/",
     "messaging": "DOH announces two additional positive COVID-19 tests, saying it has the potential to become a serious threat. Officials say there's no strong evidence of person-to-person transmission.",
     "messaging_url": "https://web.archive.org/web/20200301003849/https://www.doh.wa.gov/Newsroom/Articles/ID/1103/Additional-Cases-of-COVID-19-in-Washington-State; https://www.seattletimes.com/seattle-news/health/washington-will-speed-up-coronavirus-testing-by-processing-samples-in-state/"
   },
   {
     "date": "February 29",
+    "infection": "PHSKC announces the nation's first death due to coronavirus, and three more COVID-19 cases. More than 50 people associated with Life Care are ill and being tested.",
+    "infection_url": "https://www.kingcounty.gov/depts/health/news/2020/February/29-covid19.aspx",
     "action": "Gov. Inslee declares emergency after first confirmed death from COVID-19 and outbreak at Life Care.",
     "action_url": "https://www.seattletimes.com/seattle-news/health/one-king-county-patient-has-died-due-to-covid-19-infection/"
-  },
-  {
-    "date": "February 29",
-    "infection": "PHSKC announces the nation's first death due to coronavirus, and three more COVID-19 cases. More than 50 people associated with Life Care are ill and being tested.",
-    "infection_url": "https://www.kingcounty.gov/depts/health/news/2020/February/29-covid19.aspx"
-  },
-  {
-    "date": "March 1",
-    "week": "Week 8: 32 state resource requests"
   },
   {
     "date": "March 2",
@@ -204,10 +130,7 @@
   {
     "date": "March 5",
     "action": "Situation report: There are signs of an \"unsustainable hoarding cycle.\" DOH received supplies from the Strategic National Stockpile but didn't get everything it requested. ",
-    "action_url": "https://www.documentcloud.org/documents/6811473-SEOC-SitRep3-030520.html"
-  },
-  {
-    "date": "March 5",
+    "action_url": "https://www.documentcloud.org/documents/6811473-SEOC-SitRep3-030520.html",
     "messaging": "Vice President Pence meets with Inslee and promises support",
     "messaging_url": "https://www.seattletimes.com/seattle-news/politics/vice-president-pence-visits-washington-in-response-to-coronavirus-outbreak-as-partisanship-takes-a-break/"
   },
@@ -217,26 +140,16 @@
     "infection_url": "https://www.seattletimes.com/sports/sounders/late-penalty-kick-helps-sounders-salvage-draw-against-columbus-in-front-of-lower-turnout-at-home/"
   },
   {
-    "date": "March 8",
-    "week": "Week 9: 232 state resource requests"
-  },
-  {
     "date": "March 10",
     "action": "Situation report: \"The virus that causes COVID-19 seems to be spreading easily and sustainably in the community\"",
-    "action_url": "https://www.documentcloud.org/documents/6811476-SEOC-SitRep6-031020.html"
-  },
-  {
-    "date": "March 10",
+    "action_url": "https://www.documentcloud.org/documents/6811476-SEOC-SitRep6-031020.html",
     "messaging": "President Trump: \"We’re prepared, and we’re doing a great job with it. And it will go away. Just stay calm. It will go away.”",
     "messaging_url": "https://www.whitehouse.gov/briefings-statements/remarks-president-trump-meeting-republican-senators-2/?utm_source=link&utm_medium=header"
   },
   {
     "date": "March 11",
     "action": "Inslee bans gatherings of more than 250 people.",
-    "action_url": "https://www.governor.wa.gov/sites/default/files/proclamations/20-07%20Coronavirus%20%28tmp%29.pdf"
-  },
-  {
-    "date": "March 11",
+    "action_url": "https://www.governor.wa.gov/sites/default/files/proclamations/20-07%20Coronavirus%20%28tmp%29.pdf",
     "messaging": "World Health Organization designates COVID-19 as a pandemic."
   },
   {
@@ -248,9 +161,5 @@
     "date": "March 15",
     "action": "Inslee bans dining in restaurants, limits all public gatherings.",
     "action_url": "https://www.seattletimes.com/seattle-news/king-county-and-washington-state-to-act-on-bars-restaurants-and-gatherings/"
-  },
-  {
-    "date": "March 15",
-    "week": "Week 10: 526 state resource requests"
   }
 ]

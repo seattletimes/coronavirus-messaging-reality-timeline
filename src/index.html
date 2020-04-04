@@ -12,9 +12,9 @@
       <main class="interactive">
 
         <h1>60 days at Ground Zero Of the COVID-19 outbreak</h1>
-        <p>
+        <div class="chatter">
           After announcing the nation’s first case of COVID-19, health officials assured the public that there was little to fear. Behind the scenes, they grappled with looming supply shortages as the virus spread undetected. The following are selected events from the first 60 days of the response to COVID-19.
-        </p>
+        </div>
         
         <div class= "flex-grid header mobile-invisible">
           <div class="col-header date">Date</div>
@@ -41,21 +41,42 @@
               <%= row.week %>
             </div> -->
 
-            <div class="col infect">
-              <% if (row.infection) { %>
-              <% } %>
+            <% if (row.infection) { %>                
+              <div class="col infect" style="border-top: 3px solid #690016;">
+                <div class="mobile-visible">
+                  <b style="color: #690016;">COVID-19 infection:</b>
+                </div>
+            <% } else { %>
+              <div class="col infect">
+            <% } %>
 
-              <% if (row.infection_url) { %>
-                <a href="<%= row.infection_url %>" target="_blank">
-              <% } %>
-                <%= row.infection %>
-              <% if (row.infection_url) { %>
-                </a>
-              <% } %>
+            <% if (row.infection_url) { %>
+              <a href="<%= row.infection_url %>" target="_blank">
+            <% } %>
+              <%= row.infection %>
+            <% if (row.infection_url) { %>
+              </a>
+            <% } %>
+
+            <% if (row.infection2) { %>                
+            <% } %>
+
+            <% if (row.infection2_url) { %>
+              <a href="<%= row.infection2_url %>" target="_blank">
+            <% } %>
+              <p><%= row.infection2 %></p>
+            <% if (row.infection2_url) { %>
+              </a>
+            <% } %>
             </div>
 
-            <div class="col message">
               <% if (row.messaging) { %>
+                <div class="col message" style="border-top: 3px solid #006849;">
+                  <div class="mobile-visible">
+                    <b style="color: #006849;">Public messaging:</b>
+                  </div>
+                  <% } else { %>
+                    <div class="col message">
               <% } %>
 
               <% if (row.messaging_url) { %>
@@ -67,9 +88,13 @@
               <% } %>
             </div>
 
-
-            <div class="col action">
               <% if (row.action) { %>
+                <div class="col action" style="border-top: 3px solid #007fa4;">
+                  <div class="mobile-visible">
+                    <b style="color: #007fa4;">Action:</b>
+                  </div>
+                  <% } else { %>
+                    <div class="col action">
               <% } %>
 
               <% if (row.action_url) { %>
@@ -79,6 +104,17 @@
               <% if (row.action_url) { %>
                 </a>
               <% } %>
+
+              <% if (row.action2) { %>                
+                <% } %>
+    
+                <% if (row.action2_url) { %>
+                  <a href="<%= row.action2_url %>" target="_blank">
+                <% } %>
+                  <p><%= row.action2 %></p>
+                <% if (row.action2_url) { %>
+                  </a>
+                <% } %>
             </div>
 
           
@@ -91,20 +127,12 @@
       <div class="flex-grid">
         <div class="source">
           <div>
-            <p>Note: Number of confirmed cases are based on when they were announced by agencies, while deaths are based on patient date of death. The number of confirmed cases is likely an undercount and relies on information from multiple agencies, which did not provide consistent data on cases. 
-            <br>
-            The number of known cases jumped March 9, when the CDC provided more accurate data.            </p>
-            <br>
-            <p>Ages provided by the medical examiner were used when there were discrepancies with 911 calls, unless determined to be incorrect.</p>
-
-            <br>
-            <p>Sources: Life Care Center of Kirkland, Public Health — Seattle & King County, Snohomish Health District, North East King County Regional Public Safety Communication Agency, Seattle Times reporting</p>
+            <p>Sources: state Department of Health, Seattle Times reporting</p>
           </div>
         </div>
         <div class="credit">
           Design and development: Emily M. Eng
-          <br>Audio editing and reporting: Lauren Frohne
-          <br>Research and reporting: Asia Fields and Mary Hudetz</p>
+          <br>Research and reporting: Daniel Gilbert and David Gutman</p>
         </div>
       </main>
     </responsive-child>
